@@ -1,5 +1,0 @@
-curl http://localhost:5000/isbn/1
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100    67  100    67    0     0  22929      0 --:--:-- --:--:-- --:--:-- 33500
-{"author":"Chinua Achebe","title":"Things Fall Apart","reviews":{}}

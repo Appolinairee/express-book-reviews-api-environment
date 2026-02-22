@@ -1,5 +1,0 @@
-curl -X DELETE "http://localhost:5000/customer/auth/review/1" -b cookies.txt
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100    41  100    41    0     0   9062      0 --:--:-- --:--:-- --:--:-- 10250
-{"message":"Review successfully deleted"}

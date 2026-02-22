@@ -1,5 +1,0 @@
-curl -X POST -H "Content-Type: application/json" -d '{"username":"testuser","password":"testpass"}' http://localhost:5000/register
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   106  100    61  100    45   2984   2201 --:--:-- --:--:-- --:--:--  5300
-{"message":"User successfully registered. Now you can login"}
