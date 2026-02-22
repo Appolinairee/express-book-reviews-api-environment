@@ -1,0 +1,3 @@
+curl -s https://api.github.com/repos/Appolinairee/express-book-reviews-api-environment | python3 -c "import sys, json; data = json.load(sys.stdin); print(data.get('parent', {}).get('full_name', 'Not a fork'))"
+ibm-developer-skills-network/expressBookReviews
+
