@@ -1,0 +1,12 @@
+curl http://localhost:5000/title/Things%20Fall%20Apart
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   131  100   131    0     0  28665      0 --:--:-- --:--:-- --:--:-- 32750
+[
+    {
+        "isbn": "1",
+        "author": "Chinua Achebe",
+        "title": "Things Fall Apart",
+        "reviews": {}
+    }
+]

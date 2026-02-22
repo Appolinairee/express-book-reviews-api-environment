@@ -1,0 +1,5 @@
+curl -X POST -H "Content-Type: application/json" -d '{"username":"testuser","password":"testpass"}' http://localhost:5000/customer/login
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100    72  100    27  100    45     93    155 --:--:-- --:--:-- --:--:--   249100    72  100    27  100    45     93    155 --:--:-- --:--:-- --:--:--   248
+User successfully logged in
